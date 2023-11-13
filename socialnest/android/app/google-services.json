@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "745911586980",
+    "firebase_url": "https://chatty-955b0-default-rtdb.firebaseio.com",
+    "project_id": "chatty-955b0",
+    "storage_bucket": "chatty-955b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745911586980:android:1f22e00beebb603ce69631",
+        "android_client_info": {
+          "package_name": "com.example.socialnest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh3YTCuJCCshzpdWjTQKGdUxBe8bytx-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

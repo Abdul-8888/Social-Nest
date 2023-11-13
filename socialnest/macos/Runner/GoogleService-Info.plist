@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCEYOFdf_qc64taA8e7Fo0GFCr0XwRr7jo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>745911586980</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.socialnest.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>chatty-955b0</string>
+	<key>STORAGE_BUCKET</key>
+	<string>chatty-955b0.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:745911586980:ios:1dd636b24a15d717e69631</string>
+	<key>DATABASE_URL</key>
+	<string>https://chatty-955b0-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
