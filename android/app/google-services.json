@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "920154671018",
+    "project_id": "demoproject-2f51c",
+    "storage_bucket": "demoproject-2f51c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920154671018:android:a784d4e6fd75000a060dd3",
+        "android_client_info": {
+          "package_name": "com.example.chattybuzz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920154671018-bqejdee6liaog7sckmtjhtu2k829lifv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chattybuzz",
+            "certificate_hash": "1eba9570152b6f3b81c81cb8fe815dd14c2b669a"
+          }
+        },
+        {
+          "client_id": "920154671018-cn77qdb5uq39r6vd60fu5a8ep4koh8p9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chattybuzz",
+            "certificate_hash": "3f10b28d5dfb89f557e821bada7524fa0865f905"
+          }
+        },
+        {
+          "client_id": "920154671018-l1ml0nr0l3des88kh66dh386g47db9hc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chattybuzz",
+            "certificate_hash": "05d48ff617196fe35819ca9b061c53adf7580030"
+          }
+        },
+        {
+          "client_id": "920154671018-dc1jq67uglgjv2seqj2bqaqj4g9e8njr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApFtfzPfVZpbwgzTrlgmECXn1zV9Ojmew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920154671018-dc1jq67uglgjv2seqj2bqaqj4g9e8njr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "920154671018-j0pq4srs5rlk6sro2oj31b315bmhvdgu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.madSmsterproject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
